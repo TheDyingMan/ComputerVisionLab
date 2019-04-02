@@ -185,7 +185,6 @@
     <ClInclude Include="FERNSDlg.h" />
     <ClInclude Include="ORBDlg.h" />
     <ClInclude Include="Resource.h" />
-    <ClInclude Include="SIFT.h" />
     <ClInclude Include="SIFTDlg.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="SURFDlg.h" />
@@ -197,7 +196,6 @@
     <ClCompile Include="DebugManager.cpp" />
     <ClCompile Include="FERNSDlg.cpp" />
     <ClCompile Include="ORBDlg.cpp" />
-    <ClCompile Include="SIFT.cpp" />
     <ClCompile Include="SIFTDlg.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

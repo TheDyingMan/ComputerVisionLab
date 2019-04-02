@@ -45,9 +45,6 @@
     <ClInclude Include="FERNSDlg.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="SIFT.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ComputerVision_Lab.cpp">
@@ -72,9 +69,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="FERNSDlg.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="SIFT.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
